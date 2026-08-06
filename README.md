@@ -1,16 +1,21 @@
-## Hi there 👋
+## Sobre mim ☺️
 
-<!--
-**EdilaineCristina/EdilaineCristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto muito de entender como os processos funcionam para
+identificar oportunidades de melhoria, reduzir retrabalho e gerar
+resultados mais consistentes. Atuo com análise de dados,
+indicadores e desenvolvimento de painéis gerenciais, mas também
+valorizo a troca de conhecimento, a capacitação de pessoas e a
+construção colaborativa de soluções.
+Acredito que os melhores resultados surgem quando entendemos o
+processo, compartilhamos conhecimento e utilizamos dados para
+apoiar decisões e direcionar melhorias.
 
-Here are some ideas to get you started:
+## Projetos em Destaque 📝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Dashboard Operacional
+
+📈 Análise de Produtividade
+
+🗄️ SQL para Indicadores
+
+🔄 Mapeamento
