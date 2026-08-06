@@ -1,5 +1,14 @@
-#              Edilaine Cristina
-##     Analista de Dados | Power BI | SQL | Excel | Processos
+<div align="center">
+ 
+  # Edilaine Cristina
+  
+  ### Analista de Dados | Power BI | SQL | Excel | Processos
+  
+  Banco do Brasil · Curitiba, PR
+  
+  </div>
+  
+  ---
 
 ## Sobre mim ☺️
 
