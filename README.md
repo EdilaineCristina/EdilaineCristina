@@ -1,3 +1,6 @@
+#              Edilaine Cristina
+##     Analista de Dados | Power BI | SQL | Excel | Processos
+
 ## Sobre mim ☺️
 
 Atuo com análise de dados, indicadores e desenvolvimento de painéis gerenciais. Também
