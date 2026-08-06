@@ -2,7 +2,7 @@
  
   # Edilaine Cristina
   
-  ### Analista de Dados | Power BI | SQL | Excel | Processos
+  ### Análise de Dados | Power BI | SQL | Excel | Processos
   
   Banco do Brasil · Curitiba, PR
   
