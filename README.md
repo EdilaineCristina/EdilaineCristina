@@ -42,6 +42,8 @@ apoiar decisões e direcionar melhorias.
 
 ☑️ Mostrar capacidade de adaptação
 
+![Vídeo de Apresentação]([https://github.com](https://github.com/EdilaineCristina/EdilaineCristina/blob/main/Edilaine%20Cristina.mp4))
+
 ## Projetos em Destaque 📝
 
 📊 Dashboard Operacional
