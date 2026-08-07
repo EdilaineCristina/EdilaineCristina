@@ -74,6 +74,9 @@ Em Desenvolvimento:
 - IA
 - UX
 - Análise de Dados
+- Black Belt
+- Agente de Melhorias (inscrita)
+- Score de Processos (inscrita)
 
 Programa Caminhos BB:
 - Caminhos 2025: Inovação e Transformação de Processos
