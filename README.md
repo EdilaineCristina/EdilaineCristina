@@ -42,7 +42,7 @@ apoiar decisões e direcionar melhorias.
 
 ☑️ Mostrar capacidade de adaptação
 
-<video src="[https://github.com](https://github.com/EdilaineCristina/EdilaineCristina/blob/main/Edilaine%20Cristina.mp4)" controls width="100%"></video>
+<video src="https://github.com/EdilaineCristina/EdilaineCristina/blob/main/Edilaine%20Cristina.mp4" controls width="100%"></video>
 
 ## Projetos em Destaque 📝
 
