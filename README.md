@@ -82,3 +82,7 @@ Programa Caminhos BB:
 - Destaque Caminhos 2025
 - Participação na Oficina DMA
 - Caminhos 2026: Analytics
+
+![Vídeo de Apresentação](https://github.com/user-attachments/assets/018f737c-8d1b-4315-a33b-975bc202cbca)
+
+
